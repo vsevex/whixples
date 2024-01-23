@@ -1,2 +1,2 @@
 # whixples
-Behold the quirky wonders of "Whixp".
+Behold the quirky wonders of `Whixp`.
